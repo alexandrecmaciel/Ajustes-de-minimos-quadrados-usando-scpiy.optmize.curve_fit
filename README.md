@@ -1,0 +1,1 @@
+# Ajustes-de-minimos-quadrados-usando-scpiy.optmize.curve_fit
